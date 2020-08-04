@@ -1,2 +1,0 @@
-# oxygen
-The first day
